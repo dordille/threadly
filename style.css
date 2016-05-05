@@ -35,7 +35,7 @@ form input:focus {
 }
 
 
-button.btn {
+.btn {
     background: transparent;
     border: none;
 
@@ -49,7 +49,7 @@ button.btn {
     transition: background 2s, color 2s;
 }
 
-button.btn:hover {
+.btn:hover {
     background: #00f28f;
     color: #fff;
 }
